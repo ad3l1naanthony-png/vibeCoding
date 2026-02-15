@@ -12,6 +12,10 @@ __pycache__/
 dist/
 build/
 
+# Logs & Reports
+*.log
+security_report_*.txt
+
 # OS
 Thumbs.db
 Desktop.ini
